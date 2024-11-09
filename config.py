@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "20870885"))
 API_HASH = os.environ.get("API_HASH", "a7e1280d30225e7aa036d57a0c9bb929")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "7170452349 1114789110"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1114789110"))
 DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 
